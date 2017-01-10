@@ -1,2 +1,3 @@
 # Hello-World
-GItHub start project
+
+hello world, Raphael here, grad to join this platform.
